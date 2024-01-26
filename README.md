@@ -15,7 +15,7 @@ https://www.bbc.co.uk/news/special/2014/newsspec_8368_b/content/english/index.ht
 
 2) Write a series of tests for each unique combination of height and speed - testing that the result is as expected each time (touchdown, crash, etc.)
 
-3) Test the site through the main BBC website, overcoming any security issues regarding interaction with content in an iFrame. Use https://www.bbc.co.uk/ as the entry point such that navigation to the page above is included in your tests.
+3) (Optional, extra credits :) ) Test the site through the main BBC website, overcoming any security issues regarding interaction with content in an iFrame. Use https://www.bbc.co.uk/ as the entry point such that navigation to the page above is included in your tests.
 
 
 ## Some additional instructions
